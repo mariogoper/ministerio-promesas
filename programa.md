@@ -22,3 +22,4 @@ Presidente: Don Commit Permanente
 8. Los atascos serán declarados ilegales.
 9. Se eliminarán los errores 404 por decreto.
 - Cuarta promesa: Café gratis todos los viernes
+- Propuesta de reforma: Jornada laboral de 4 días
