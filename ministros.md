@@ -1,0 +1,3 @@
+- Ministro del Tiempo: Aureliano Buendía
+- Ministra de la Siesta: Mafalda Quino
+- Ministro del Buen Humor: Cantinflas
